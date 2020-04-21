@@ -4,7 +4,7 @@
 ## Data visualisation 
 
 ### graphql-birdseyev 
-iew any GraphQL schema as a dynamic and interactive graph. 
+View any GraphQL schema as a dynamic and interactive graph. 
 
 ## Debugging
 
