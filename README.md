@@ -16,3 +16,8 @@ https://birdseye.readthedocs.io/en/latest/quickstart.html
 ### FullPage.JS
 FullPage.js is a plugin to create fullscreen scrolling websites.
 https://alvarotrigo.com/vue-fullpage/
+
+
+## Ethics
+### Transparency
+https://algotransparency.org/ : AlgoTransparency is designed to inform citizens on the algorithms shaping access to information.
