@@ -20,5 +20,5 @@ https://alvarotrigo.com/vue-fullpage/
 
 
 ## Ethics
-### Transparency
+### AlgoTransparency
 https://algotransparency.org/ : AlgoTransparency is designed to inform citizens on the algorithms shaping access to information.
