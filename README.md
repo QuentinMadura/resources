@@ -7,8 +7,8 @@ D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS.
 
 ### Vue Funnel Graph JS
 Funnel Graph JS is a library for generating a funnel chart. It generates an SVG chart, adds labels, legend and other info.
-
 https://github.com/greghub/vue-funnel-graph-js
+
 ### graphql-birdseyev 
 View any GraphQL schema as a dynamic and interactive graph. 
 
@@ -25,7 +25,10 @@ https://alvarotrigo.com/vue-fullpage/
 
 ## Ethics
 ### AlgoTransparency
-https://algotransparency.org/ : AlgoTransparency is designed to inform citizens on the algorithms shaping access to information.
+AlgoTransparency is designed to inform citizens on the algorithms shaping access to information.
+https://algotransparency.org/
 
-
-
+## Debrid
+### Reevown
+A free download service with which you can perform premium downloads.
+https://reevown.com/
