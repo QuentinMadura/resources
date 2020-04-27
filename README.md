@@ -17,7 +17,6 @@ View any GraphQL schema as a dynamic and interactive graph.
 David Bihanic is a french professor at the Pantheon-Sorbonne in Paris. His blog exposes a variety of data-visualization projects such as his project concerning the refugees.. 
 http://www.davidbihanic.com
 
-
 ## Debugging
 ### Birdseye
 birdseye is a Python debugger which records the values of expressions in a function call and lets you easily view them after the function exits. 
