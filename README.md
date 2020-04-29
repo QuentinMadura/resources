@@ -1,4 +1,4 @@
-# tooling
+# tooling & resources
 
 
 ## Data visualisation 
@@ -16,6 +16,9 @@ View any GraphQL schema as a dynamic and interactive graph.
 ### David Bihanic
 David Bihanic is a french professor at the Pantheon-Sorbonne in Paris. His blog exposes a variety of data-visualization projects such as his project concerning the refugees.. 
 http://www.davidbihanic.com
+
+### Raymond Camden
+Raymond is a developer advocate. He focuses on JavaScript, serverless and enterprise cat demos. https://www.raymondcamden.com/about/
 
 ## Debugging
 ### Birdseye
@@ -37,3 +40,4 @@ https://algotransparency.org/
 ### Reevown
 A free download service with which you can perform premium downloads.
 https://reevown.com/
+
