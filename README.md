@@ -35,6 +35,10 @@ https://alvarotrigo.com/vue-fullpage/
 Gradient Animator is a CSS generator used to create animated backgrounds.
 https://www.gradient-animator.com/
 
+### Animista
+Animista is a website where you can play with a collection of pre-made css animations, tweak them and get only those you will actually use.
+https://animista.net/
+
 ## Ethics
 ### AlgoTransparency
 AlgoTransparency is designed to inform citizens on the algorithms shaping access to information.
