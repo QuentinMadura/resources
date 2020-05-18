@@ -1,5 +1,8 @@
 # tooling & resources
 
+## Python 
+### Modern Python Toolchain / Blog
+https://v4.chriskrycho.com/2015/a-modern-python-development-toolchain.html
 
 ## Data visualisation 
 ### D3.js
