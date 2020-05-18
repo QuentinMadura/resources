@@ -9,6 +9,9 @@ D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS.
 Funnel Graph JS is a library for generating a funnel chart. It generates an SVG chart, adds labels, legend and other info.
 https://github.com/greghub/vue-funnel-graph-js
 
+### GO.JS
+GO.js is a library for manipulating diagrams, charts, and graphs.
+
 ### graphql-birdseyev 
 View any GraphQL schema as a dynamic and interactive graph. 
 
