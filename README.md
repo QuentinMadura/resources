@@ -1,4 +1,5 @@
 # tooling & resources
+My curated list of awesome frameworks, libraries, software and resources.
 
 ## Python 
 ### Modern Python Toolchain / Blog
