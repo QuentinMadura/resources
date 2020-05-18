@@ -4,6 +4,9 @@
 ### Modern Python Toolchain / Blog
 https://v4.chriskrycho.com/2015/a-modern-python-development-toolchain.html
 
+### Cheatsheet 
+https://ipgp.github.io/scientific_python_cheat_sheet/
+
 ## Data visualisation 
 ### D3.js
 D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS.
