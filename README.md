@@ -16,6 +16,9 @@ https://birdseye.readthedocs.io/en/latest/quickstart.html
 #### Scientific Python Cheat Sheet
 https://ipgp.github.io/scientific_python_cheat_sheet/
 
+#### Cheatsheet in french
+https://drive.google.com/file/d/1qZSQOZJF60CHz7zp8cgNLrjaBJoB4bd1/view
+
 ## JavaScript
 
 ### Data visualisation 
