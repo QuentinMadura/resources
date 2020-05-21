@@ -69,6 +69,9 @@ https://animista.net/
 AlgoTransparency is designed to inform citizens on the algorithms shaping access to information.
 https://algotransparency.org/
 
+### Ethical.net
+A curated list of ethics tools. https://ethical.net/resources/
+
 ## Others
 ### Reevown
 A free download service with which you can perform premium downloads.
