@@ -48,6 +48,10 @@ https://alvarotrigo.com/vue-fullpage/
 David Bihanic is a french professor at the Pantheon-Sorbonne in Paris. His blog exposes a variety of data-visualization projects such as his project concerning the refugees.. 
 http://www.davidbihanic.com
 
+## UX - Blog
+Intechnic is an user experience agency specialized in the customer acquisition, conversion, and retention of websites.
+https://www.intechnic.com/
+
 ### Raymond Camden
 Raymond is a developer advocate. He focuses on JavaScript, serverless and enterprise cat demos. https://www.raymondcamden.com/about/
 
