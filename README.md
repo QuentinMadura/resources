@@ -76,6 +76,9 @@ https://algotransparency.org/
 ### Ethical.net
 A curated list of ethics tools. https://ethical.net/resources/
 
+### Project sustainable cloud
+http://www.projectsustainable.cloud/
+
 ## Others
 ### Reevown
 A free download service with which you can perform premium downloads.
