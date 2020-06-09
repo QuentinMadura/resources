@@ -59,6 +59,9 @@ https://www.intechnic.com/
 ### Raymond Camden
 Raymond is a developer advocate. He focuses on JavaScript, serverless and enterprise cat demos. https://www.raymondcamden.com/about/
 
+### Sanyam Kapoor - Knowledge base
+https://www.sanyamkapoor.com/kb
+
 
 ## CSS
 
