@@ -1,5 +1,5 @@
-# tooling & resources
-My curated list of awesome frameworks, libraries, software and resources.
+# Resources
+My curated list of frameworks, libraries, software and resources.
 
 ## Python 
 
@@ -18,6 +18,10 @@ https://ipgp.github.io/scientific_python_cheat_sheet/
 
 #### Cheatsheet in french
 https://drive.google.com/file/d/1qZSQOZJF60CHz7zp8cgNLrjaBJoB4bd1/view
+
+## Algorithms
+### Pathfinding - A star
+https://www.redblobgames.com/pathfinding/a-star/introduction.html
 
 ## JavaScript
 
