@@ -1,6 +1,25 @@
 # Resources
 A curated list of frameworks, libraries, software and resources.
 
+Know a resource that isn't listed below? Feel free to create a new pull request, or open an issue. Please read the contribution guidelines before contributing.
+
+Contribution Guidelines
+Please ensure your pull request adheres to the following guidelines:
+
+Search previous suggestions before making a new one, as yours may be a duplicate.
+Make sure your link is useful before submitting.
+Make an individual pull request for each suggestion.
+Titles should be capitalized.
+Use the following format: 
+[List Name]
+[description]
+(link)
+Link additions should be added alphabetically to the relevant category.
+New categories or improvements to the existing categorization are welcome.
+Check your spelling and grammar.
+The pull request and commit should have a useful title.
+Thank you for your suggestions!
+
 ## Python 
 
 ### Tools
@@ -94,6 +113,10 @@ A curated list of ethics tools. https://ethical.net/resources/
 
 ### Project sustainable cloud
 http://www.projectsustainable.cloud/
+
+## Open-Source
+Software Heritage initiative is to collect all publicly available software.
+https://archive.softwareheritage.org/
 
 ## Others
 ### Reevown
