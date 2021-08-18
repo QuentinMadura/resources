@@ -82,6 +82,9 @@ https://alvarotrigo.com/vue-fullpage/
 Gradient Animator is a CSS generator used to create animated backgrounds.
 https://www.gradient-animator.com/
 
+#### CSS Reset
+A Modern CSS Reset - https://piccalil.li/blog/a-modern-css-reset/
+
 ### Animation
 #### Animista
 Animista is a website where you can play with a collection of pre-made css animations, tweak them and get only those you will actually use.
