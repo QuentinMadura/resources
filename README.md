@@ -125,3 +125,7 @@ https://archive.softwareheritage.org/
 ### Reevown
 A free download service with which you can perform premium downloads.
 https://reevown.com/
+
+## Code of conduct
+From the Youtube channel Coding Train
+https://github.com/CodingTrain/Code-of-Conduct
