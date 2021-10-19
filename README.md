@@ -129,3 +129,8 @@ https://reevown.com/
 ## Code of conduct
 From the Youtube channel Coding Train
 https://github.com/CodingTrain/Code-of-Conduct
+
+
+## Data Compliance 
+Osano is an easy-to-use data privacy platform. Instantly make your website compliant with CCPA, GDPR, and monitor all of your vendor's​ privacy practices.
+https://www.osano.com/
